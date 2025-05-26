@@ -1,3 +1,8 @@
+import heapq
+from collections import deque
+from google.colab import files
+from grafo import Grafo
+
 class HeuristicaConstrutiva:
     def __init__(self, arquivo_entrada):
         self.grafo = Grafo(arquivo_entrada)
