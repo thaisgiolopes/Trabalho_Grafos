@@ -15,7 +15,8 @@ Trabalho para a disciplina GCC218-Algoritmos em Grafos da UFLA, desenvolvido pel
   - Classe HeuristicaConstrutiva: ela é responsável por construir a solução gulosa para o problema em questão. A partir de um grafo, ela constroi rotas que atendem todos os elementos requeridos com base na seleção do melhor serviço no momento, feita através das seguintes funções:
      - obter_elementos_vizinhos_nao_atendidos: executa uma BFS por camadas a partir do vértice inicial e retorna uma lista de candidatos com os elementos requeridos não atendidos da camada mais próxima.
      - _selecionar_melhor_servico: seleciona o melhor serviço da lista de candidatos baseado na razão demanda/custo
-  Essas soluções são executadas e integradas no notebook Etapa2_Trabalho_Grafos.ipynb.
+
+Essas soluções são executadas e integradas no notebook Etapa2_Trabalho_Grafos.ipynb.
 
 ## Instruções para execução da solução
   1. Abra o arquivo Etapa2_Trabalho_Grafos.ipynb
