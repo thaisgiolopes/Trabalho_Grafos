@@ -20,5 +20,4 @@ Trabalho para a disciplina GCC218-Algoritmos em Grafos da UFLA, desenvolvido pel
 ## Instruções para execução da solução
   1. Abra o arquivo Etapa2_Trabalho_Grafos.ipynb
   2. Execute as células de código
-  3. 
 As soluções são exibidas em um arquivo .dat para cada instância teste. Além disso, é possível baixar o arquivo .zip com todas as instâncias
