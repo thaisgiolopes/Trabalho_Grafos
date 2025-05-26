@@ -1,3 +1,5 @@
+import heapq
+
 class Grafo:
     # MODELANDO E IMPLEMENTANDO O GRAFO
     def __init__(self, arquivo_entrada):
